@@ -1,6 +1,3 @@
-
-
-
 ## Hi I'm Shubhash
 
 ### I'm a Information Systems fresh graduate from Singapore Management University
@@ -10,14 +7,10 @@
 - 🤖 Enthusiast of Generative AI and emerging tech  
 - 📚 Studied Cloud Engineering, Data Mining, OOP, IoT, Machine Learning  
 
-
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhasheesh-prakash-5930251b2/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubhasheesh-prakash-5930251b2/)
 
 # 💻 Tech Stack
-
-
-
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -68,3 +61,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Shubhash007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
